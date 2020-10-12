@@ -15,7 +15,7 @@ The audit of the election shows that:
 - A total of 369,711 votes were found to be cast in this congressional election. 
 - The calculated breakdown of votes across each county:
     - Jefferson: 10.5% (38,855 votes)
-    - Denver:82.8% (306,055 votes)
+    - Denver: 82.8% (306,055 votes)
     - Arapahoe: 6.7% (24,801 votes)
 - Denver was calculated to have the largest number of votes. 
 - The calculated breakdown of votes each candidate received:
